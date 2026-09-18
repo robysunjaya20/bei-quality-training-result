@@ -51,6 +51,14 @@ const trainingResults = [
     type: "PRE & POST TEST",
     url: "https://docs.google.com/spreadsheets/d/1bgRfN3U-iwTTV-s_AtQqfig7S44_etnqh2zYLhr5P4Y/edit?usp=sharing",
   },
+  {
+    category: "14 Q Principle",
+    title: "Pre Test & Post Test",
+    description: "Hasil penilaian Pre Test dan Post Test 14 Q Principle.",
+    icon: Ruler,
+    type: "PRE TEST & POST TEST",
+    url: "https://docs.google.com/spreadsheets/d/1bSVJtjSAlBB4XI-RjcKIqlJyVZkcnlrPFCHeVx_Hbpo/edit?usp=sharing",
+  },
 ];
 
 export default function Home() {
