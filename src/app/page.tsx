@@ -59,6 +59,15 @@ const trainingResults = [
     type: "PRE TEST & POST TEST",
     url: "https://docs.google.com/spreadsheets/d/1bSVJtjSAlBB4XI-RjcKIqlJyVZkcnlrPFCHeVx_Hbpo/edit?usp=sharing",
   },
+  {
+    category: "Item-Item Mirror",
+    title: "Pre Test & Post Test",
+    description: "Hasil penilaian Pre Test dan Post Test Item-Item Mirror.",
+    icon: Ruler,
+    type: "PRE TEST & POST TEST",
+    url: "https://docs.google.com/spreadsheets/d/1aijYwz5wayArnQZ2TzNJfyaOSo6ZY81OY3U_GJsHxxE/edit?usp=sharing",
+  },
+  
 ];
 
 export default function Home() {
