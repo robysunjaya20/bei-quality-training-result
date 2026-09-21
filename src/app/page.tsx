@@ -65,7 +65,7 @@ const trainingResults = [
     description: "Hasil penilaian Pre Test dan Post Test Item-Item Mirror.",
     icon: Ruler,
     type: "PRE TEST & POST TEST",
-    url: "https://docs.google.com/spreadsheets/d/1aijYwz5wayArnQZ2TzNJfyaOSo6ZY81OY3U_GJsHxxE/edit?usp=sharing",
+    url: "https://docs.google.com/spreadsheets/d/1zdcnBpoxpc4TxQlE-4MWHM-xr0629D_AcnHFgI7nPS0/edit?usp=sharing",
   },
   
 ];
