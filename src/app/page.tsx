@@ -9,7 +9,7 @@ const trainingResults = [
     description: "Hasil penilaian sebelum mengikuti Training 5S & 3T.",
     icon: ClipboardCheck,
     type: "PRE TEST",
-    url: "https://docs.google.com/spreadsheets/d/1eC-fvZpcopOGSnwLZ2rFOxN1_G6HjaPfkcCxpRCjBCQ/edit?usp=sharing",
+    url: "https://docs.google.com/spreadsheets/d/16OD7f0WSHpzYB73PjO8Q3fh-SwB2P7tf5lhmv8Th6HI/edit?usp=sharing",
   },
   {
     category: "5S & 3T",
@@ -17,7 +17,7 @@ const trainingResults = [
     description: "Hasil penilaian setelah mengikuti Training 5S & 3T.",
     icon: BookOpenCheck,
     type: "POST TEST",
-    url: "https://docs.google.com/spreadsheets/d/1tG9zOlZcVqxumxwV2s1zd9r3LmqgUxnCNTzLQ_on7Kc/edit?usp=sharing",
+    url: "https://docs.google.com/spreadsheets/d/1zHjkvfY7rqmNvxU10SYzYiRgGcEeOX0WSCcq1K4dtjY/edit?usp=sharing",
   },
   {
     category: "Fishbone Diagram",
@@ -25,7 +25,7 @@ const trainingResults = [
     description: "Hasil penilaian sebelum mengikuti Training Fishbone Diagram.",
     icon: GitBranch,
     type: "PRE TEST",
-    url: "https://docs.google.com/spreadsheets/d/1IxLbDFfWH446zA3YhPbJm5N4ONW1jjAZcdvq6X7GC2s/edit?usp=sharing",
+    url: "https://docs.google.com/spreadsheets/d/1PkWQ3q9V2pvm5A2VMh8iya5jKbjcHo0YXbtweg9iTGk/edit?usp=sharing",
   },
   {
     category: "Fishbone Diagram",
@@ -33,7 +33,7 @@ const trainingResults = [
     description: "Hasil penilaian setelah mengikuti Training Fishbone Diagram.",
     icon: GitBranch,
     type: "POST TEST",
-    url: "https://docs.google.com/spreadsheets/d/1hBnHMuC2yLUb8iAfvRh1uHyPgGU8QyaHAO30EmT8YCE/edit?usp=sharing",
+    url: "https://docs.google.com/spreadsheets/d/1c5BkfTEKgMr4f63EEUIAFNcfqd8bJRxy68NwbA7Jxn0/edit?usp=sharing",
   },
   {
     category: "Basic Name Defect",
@@ -49,7 +49,7 @@ const trainingResults = [
     description: "Hasil penilaian Pre Test dan Post Test Standar Tolerance.",
     icon: Ruler,
     type: "PRE & POST TEST",
-    url: "https://docs.google.com/spreadsheets/d/1bgRfN3U-iwTTV-s_AtQqfig7S44_etnqh2zYLhr5P4Y/edit?usp=sharing",
+    url: "https://docs.google.com/spreadsheets/d/1UY8r_jCpOs5e7cCBqfgEMH7MXMIm7pEHZbh8FbxgCXU/edit?usp=sharing",
   },
   {
     category: "14 Q Principle",
