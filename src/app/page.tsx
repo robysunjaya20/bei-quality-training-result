@@ -99,6 +99,14 @@ const trainingResults = [
     type: "POST TEST",
     url: "https://docs.google.com/spreadsheets/d/17NXRbkB0gVfhSw-lcPorA6hchXDMIKpFHAgXE2XahQk/edit?usp=sharing",
   }, 
+  {
+    category: "Basic Analysis 5Why",
+    title: "Pre Test & Post Test",
+    description: "Hasil penilaian Pre Test dan Post Test Basic Analysis 5Why.",
+    icon: Ruler,
+    type: "PRE TEST & POST TEST",
+    url: "https://docs.google.com/spreadsheets/d/1kA7n_N5h_J9mLRpiaNMKKdKKhzfaeLtFSfoLZgaqZFM/edit?usp=sharing",
+  },
 ];
 
 export default function Home() {
