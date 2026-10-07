@@ -67,7 +67,38 @@ const trainingResults = [
     type: "PRE TEST & POST TEST",
     url: "https://docs.google.com/spreadsheets/d/1zdcnBpoxpc4TxQlE-4MWHM-xr0629D_AcnHFgI7nPS0/edit?usp=sharing",
   },
-  
+  {
+    category: "Clasification Class Product",
+    title: "Pre Test",
+    description: "Hasil penilaian sebelum mengikuti Training Clasification Class Product.",
+    icon: GitBranch,
+    type: "PRE TEST",
+    url: "https://docs.google.com/spreadsheets/d/1B0CESAd9MFgoYfeB8-Z1MoRFz86WD3-0_cY_QZsySG4/edit?usp=sharing",
+  },
+  {
+    category: "Clasification Class Product",
+    title: "Post Test",
+    description: "Hasil penilaian setelah mengikuti Training Clasification Class Product.",
+    icon: GitBranch,
+    type: "POST TEST",
+    url: "https://docs.google.com/spreadsheets/d/1tP2_LA7QEJrt1w6Dq09rPM7Djh2W9L7gqIbJyxf095A/edit?usp=sharing",
+  },
+  {
+    category: "Horenso",
+    title: "Pre Test",
+    description: "Hasil penilaian sebelum mengikuti Training Horenso.",
+    icon: GitBranch,
+    type: "PRE TEST",
+    url: "https://docs.google.com/spreadsheets/d/1RCnhixjqF11pAo94BIV4w0JX6mIn49Q4zbYOHi84Lvs/edit?usp=sharing",
+  },
+  {
+    category: "Horenso",
+    title: "Post Test",
+    description: "Hasil penilaian setelah mengikuti Training Horenso.",
+    icon: GitBranch,
+    type: "POST TEST",
+    url: "https://docs.google.com/spreadsheets/d/17NXRbkB0gVfhSw-lcPorA6hchXDMIKpFHAgXE2XahQk/edit?usp=sharing",
+  }, 
 ];
 
 export default function Home() {
